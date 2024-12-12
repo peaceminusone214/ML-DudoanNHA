@@ -1,0 +1,4 @@
+$ python -m venv myenv
+$ myenv\Scripts\activate
+$ pip install pandas numpy scikit-learn matplotlib seaborn beautifulsoup4 requests jupyter
+$ jupyter notebook
